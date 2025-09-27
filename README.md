@@ -22,6 +22,19 @@ Main loginc of the site
 Main styling of the site
 - **page2.html**
 Page to show JS interaction
+<br>
+### Extra Notes
+
+To edit these files with stuff like autocomplete, you should use a IDE.
+If your not new to programming you know what that is, if not a IDE (or Intergrated Development Enviroment) is great for making things, even though NeoVim is awesome
+it's NOT for beginners, so you should use <a href="https://code.visualstudio.com/">Visual Studio Code</a>, plus it has extenions and AI coding.
+
+If your more interested in the visual aspects of websites, you want to learn more HTML/CSS, but if you like the logic and backend of websites, you should learn Javascript.
+
+I learned fast with W3Schools so:
+- HTML <a href="https://www.w3schools.com/html/">W3Schools</a>
+- CSS <a href="https://www.w3schools.com/css/">W3Schools</a>
+- Javascript <a href="https://www.w3schools.com/js/">W3Schools</a>
 <hr>
 <a href="https://github.com/SHAPE-Software/">My Github</a>
 <br>
