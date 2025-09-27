@@ -25,7 +25,7 @@ Page to show JS interaction
 <br>
 ### Extra Notes
 
-To edit these files with stuff like autocomplete, you should use a IDE.
+To edit these files with stuff like autocomplete, you should use an IDE.
 If your not new to programming you know what that is, if not a IDE (or Intergrated Development Enviroment) is great for making things, even though NeoVim is awesome
 it's NOT for beginners, so you should use <a href="https://code.visualstudio.com/">Visual Studio Code</a>, plus it has extenions and AI coding.
 
