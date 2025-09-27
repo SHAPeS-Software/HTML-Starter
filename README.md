@@ -1,6 +1,6 @@
 # HTML-Starter
 
-This is a repo which contains a simplesite that is already linked with the scripts.js and styles.css.
+This is a repo which contains a simple site that is already linked with the scripts.js and styles.css. Used for learning purposes or as a starting template.
 
 ## Instructions
 use git to clone the repo
