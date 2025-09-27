@@ -4,7 +4,7 @@ This is a repo which contains a simplesite that is already linked with the scrip
 
 ## Instructions
 use git to clone the repo
-``` bash
+```sh
     git clone https://github.com/SHAPeS-Software/HTML-Starter
 ```
 
