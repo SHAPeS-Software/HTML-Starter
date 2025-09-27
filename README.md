@@ -8,7 +8,7 @@ use git to clone the repo
     git clone https://github.com/SHAPeS-Software/HTML-Starter
 ```
 
-This will clone the repop to your current directory.
+This will clone the repo to your current directory.
 
 Or just click the green **Code** button and **Download Zip**, and save it somewhere.
 
